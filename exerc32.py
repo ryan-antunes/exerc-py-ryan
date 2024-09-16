@@ -1,0 +1,5 @@
+temperatura = float(input("Digite a temperatura: "))
+F = (temperatura + 32)
+print (f"A temperatura em Fahrenheit é {F} graus")
+K = (temperatura + 273,15)
+print (f"A temperatura em Kelvin é {K} graus")
